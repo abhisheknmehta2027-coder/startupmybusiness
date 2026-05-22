@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px; /* Essential for sticky header smooth scroll */
+}
+
+/* Fix for mobile keyboard/zoom */
+body {
+  overflow-x: hidden;
+  -webkit-text-size-adjust: 100%;
+}

@@ -130,9 +130,9 @@ const Footer = () => {
               Contact Us
             </h4>
             <div className="flex flex-col space-y-4 text-sm text-slate-500">
-              <a href="https://maps.google.com/?q=Office+No.+2401,+Bramha+Business+Park,+Wadgaon+Sheri,+Pune,+Maharashtra+411014" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 hover:text-blue-600 transition-colors cursor-pointer group">
+              <a href="https://www.google.com/maps/search/?api=1&query=Office+No+317,+3rd+Floor,+City+Vista-+B-+Building,+Fountain+Road,+Ashoka+Nagar,+Kharadi,+Pune,+Maharashtra+411014" target="_blank" rel="noopener noreferrer" className="flex items-start gap-3 hover:text-blue-600 transition-colors cursor-pointer group">
                 <MapPin size={18} className="text-blue-600 shrink-0 mt-0.5" />
-                <span className="leading-relaxed">Office No. 2401, Bramha Business Park, Pune, Maharashtra 411014</span>
+                <span className="leading-relaxed">Office No 317, 3rd Floor, City Vista- B- Building, Fountain Road, Ashoka Nagar, Kharadi, Pune, Maharashtra 411014</span>
               </a>
               <a href="mailto:csjitendramehta@gmail.com" className="flex items-center gap-3 hover:text-blue-600 transition-colors cursor-pointer group">
                 <Mail size={18} className="text-blue-600 shrink-0" />
